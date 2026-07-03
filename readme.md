@@ -1,7 +1,5 @@
 # AlkeWallet — Diseño e Implementación de Base de Datos Relacional
 
-![AlkeWallet Logo](./Diagrama/diagrama.png)
-
 ## 📋 Descripción del Proyecto
 
 AlkeWallet es una base de datos relacional diseñada para gestionar un monedero virtual. Permite administrar usuarios, monedas y transacciones de forma segura, garantizando la integridad de los datos mediante restricciones ACID y validaciones de integridad referencial.

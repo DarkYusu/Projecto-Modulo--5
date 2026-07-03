@@ -100,10 +100,4 @@ Para obtener información detallada sobre el diseño, implementación y validaci
 
 ---
 
-## 👤 Autor
-
-Proyecto desarrollado como parte del **Módulo #5** de la Especialización en Desarrollo Full Stack.
-
----
-
 **Última actualización:** Julio 2026
